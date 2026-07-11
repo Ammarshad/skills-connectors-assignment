@@ -1,0 +1,21 @@
+# Task 5 - Skill Audit
+
+## Skill Reviewed
+
+A Skill from the official skills directory.
+
+## Plain-English Explanation
+
+I asked the AI to explain exactly what the Skill does.
+
+## Sensitive Actions Checked
+
+External servers
+
+Credentials
+
+Unexpected data sharing
+
+## Verdict
+
+Based on the explanation, I found the Skill safe to enable for its intended purpose because I did not identify any unexpected sensitive behavior.
